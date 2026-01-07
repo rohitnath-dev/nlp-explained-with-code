@@ -93,5 +93,3 @@ This repository contains a single Jupyter Notebook that explains core Natural La
 - Evaluation metrics are provided for instruction; reported results should not be interpreted as benchmark performance.
 - For production projects consider using larger datasets, cross-validation, hyperparameter tuning, and additional preprocessing tailored to the task.
 - Some code cells may download NLTK data on first run; ensure network access if running those cells.
-
-If you want changes (for example: include a requirements.txt, add a Dockerfile, or split the notebook into modular scripts), I can propose those next.
